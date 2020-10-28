@@ -1,0 +1,48 @@
+C:\Users\it15145994\source\repos\Question_04\Question_04\bin\Debug\Question_04.exe.config
+C:\Users\it15145994\source\repos\Question_04\Question_04\bin\Debug\Question_04.exe
+C:\Users\it15145994\source\repos\Question_04\Question_04\bin\Debug\Question_04.pdb
+C:\Users\it15145994\source\repos\Question_04\Question_04\bin\Debug\OpenCvSharp.dll
+C:\Users\it15145994\source\repos\Question_04\Question_04\obj\Debug\Question_04.csprojAssemblyReference.cache
+C:\Users\it15145994\source\repos\Question_04\Question_04\obj\Debug\Question_04.Form1.resources
+C:\Users\it15145994\source\repos\Question_04\Question_04\obj\Debug\Question_04.Properties.Resources.resources
+C:\Users\it15145994\source\repos\Question_04\Question_04\obj\Debug\Question_04.csproj.GenerateResource.cache
+C:\Users\it15145994\source\repos\Question_04\Question_04\obj\Debug\Question_04.csproj.CoreCompileInputs.cache
+C:\Users\it15145994\source\repos\Question_04\Question_04\obj\Debug\Question_04.csproj.CopyComplete
+C:\Users\it15145994\source\repos\Question_04\Question_04\obj\Debug\Question_04.exe
+C:\Users\it15145994\source\repos\Question_04\Question_04\obj\Debug\Question_04.pdb
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\bin\Debug\Question_04.exe.config
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\bin\Debug\Question_04.exe
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\bin\Debug\Question_04.pdb
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\bin\Debug\OpenCvSharp.dll
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\obj\Debug\Question_04.csprojAssemblyReference.cache
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\obj\Debug\Question_04.Form1.resources
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\obj\Debug\Question_04.Properties.Resources.resources
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\obj\Debug\Question_04.csproj.GenerateResource.cache
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\obj\Debug\Question_04.csproj.CoreCompileInputs.cache
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\obj\Debug\Question_04.csproj.CopyComplete
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\obj\Debug\Question_04.exe
+F:\janitha\4th Year 2nd sem\IUP\MID\Janz\Question_04\Question_04\obj\Debug\Question_04.pdb
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\bin\Debug\Question_04.exe.config
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\bin\Debug\Question_04.exe
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\bin\Debug\Question_04.pdb
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\bin\Debug\OpenCvSharp.dll
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\obj\Debug\Question_04.csprojAssemblyReference.cache
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\obj\Debug\Question_04.Form1.resources
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\obj\Debug\Question_04.Properties.Resources.resources
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\obj\Debug\Question_04.csproj.GenerateResource.cache
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\obj\Debug\Question_04.csproj.CoreCompileInputs.cache
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\obj\Debug\Question_04.csproj.CopyComplete
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\obj\Debug\Question_04.exe
+F:\janitha\4th Year 2nd sem\IUP\MID\Submit\New folder\Question_04\Question_04\obj\Debug\Question_04.pdb
+E:\Question_04\Question_04\bin\Debug\Question_04.exe.config
+E:\Question_04\Question_04\bin\Debug\Question_04.exe
+E:\Question_04\Question_04\bin\Debug\Question_04.pdb
+E:\Question_04\Question_04\bin\Debug\OpenCvSharp.dll
+E:\Question_04\Question_04\obj\Debug\Question_04.csprojAssemblyReference.cache
+E:\Question_04\Question_04\obj\Debug\Question_04.Form1.resources
+E:\Question_04\Question_04\obj\Debug\Question_04.Properties.Resources.resources
+E:\Question_04\Question_04\obj\Debug\Question_04.csproj.GenerateResource.cache
+E:\Question_04\Question_04\obj\Debug\Question_04.csproj.CoreCompileInputs.cache
+E:\Question_04\Question_04\obj\Debug\Question_04.csproj.CopyComplete
+E:\Question_04\Question_04\obj\Debug\Question_04.exe
+E:\Question_04\Question_04\obj\Debug\Question_04.pdb

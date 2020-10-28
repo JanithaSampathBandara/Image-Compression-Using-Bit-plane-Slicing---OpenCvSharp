@@ -1,0 +1,12 @@
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\bin\Debug\Question_04_(a).exe.config
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\bin\Debug\Question_04_(a).exe
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\bin\Debug\Question_04_(a).pdb
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\bin\Debug\OpenCvSharp.dll
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\obj\Debug\Question_04_(a).csprojAssemblyReference.cache
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\obj\Debug\Question_04__a_.Form1.resources
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\obj\Debug\Question_04__a_.Properties.Resources.resources
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\obj\Debug\Question_04_(a).csproj.GenerateResource.cache
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\obj\Debug\Question_04_(a).csproj.CoreCompileInputs.cache
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\obj\Debug\Question_04_(a).csproj.CopyComplete
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\obj\Debug\Question_04_(a).exe
+C:\Users\it15145994\source\repos\Question_04_(a)\Question_04_(a)\obj\Debug\Question_04_(a).pdb
